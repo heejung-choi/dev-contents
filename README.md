@@ -2,7 +2,7 @@
 
 ## 📣 소개
 
-주니어 개발자를 위한 개발 컨텐츠 모음집 입니다.
+- 주니어 개발자를 위한 개발 컨텐츠 모음집 입니다.
 
 
 
@@ -24,9 +24,23 @@
 
 ### 3. 취업 관련
 
+- <a src="https://perade.github.io/blog/2020-recruitment/">이직하며 느낀 2020년 1/4분기 개발자 채용 과정</a>
 
 
-### 4. 참고하는 GITHUB
+
+### 4. 프로젝트 관련
+
+- <a src="https://woowabros.github.io/experience/2018/11/12/toy-project.html"> 프로젝트가 장난이야?</a>
+
+
+
+### 5. 알고리즘
+
+- <a src="[https://www.inflearn.com/course/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EA%B0%95%EC%A2%8C#](https://www.inflearn.com/course/알고리즘-강좌#)"> 알고리즘 무료 강의 </a>
+
+
+
+### 6. 참고하는 GITHUB
 
 - <a src="https://github.com/Integerous/TIL">한정수님의 TIL</a>
 
@@ -35,3 +49,4 @@
 ### *. 기타
 
 - <a src="[https://ko.wikipedia.org/wiki/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4](https://ko.wikipedia.org/wiki/마크다운)">마크다운 작성법</a>
+
