@@ -20,7 +20,17 @@
 
 ### 2. 언어 & 프레임워크
 
+#### 1) python
 
+- <a src='https://docs.python.org/ko/3.7/tutorial/index.html'> 파이썬 자습서(python 공식문서)</a>
+- <a src='https://dojang.io/course/view.php?id=7'>코딩도장 파이썬 강좌 </a>
+- <a src='https://opentutorials.org/course/1750/17676'>생활코딩 파이썬 </a>
+- 
+
+#### 2) Django
+
+- <a src='https://docs.djangoproject.com/en/3.0/ref/templates/language/'> django 공식문서</a>
+- 
 
 ### 3. 취업 관련
 
