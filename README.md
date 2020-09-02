@@ -35,6 +35,7 @@
 ### 3. 취업 관련
 
 - <a src="https://perade.github.io/blog/2020-recruitment/">이직하며 느낀 2020년 1/4분기 개발자 채용 과정</a>
+- md자료 - 이력서 작성 팁
 
 
 
